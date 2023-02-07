@@ -1,0 +1,2 @@
+../trackle-library/lib/tinydtls/aes/rijndael_wrap.c:23:1:rijndael_set_key_enc_only	32	static
+../trackle-library/lib/tinydtls/aes/rijndael_wrap.c:66:1:rijndael_encrypt	24	static

@@ -1,0 +1,4 @@
+../trackle-library/src/events.cpp:5:10:uint8_t* subscription_prelude(uint8_t*, uint16_t, const char*)	32	static
+../trackle-library/src/events.cpp:25:8:size_t subscription(uint8_t*, uint16_t, const char*, const char*)	32	static
+../trackle-library/src/events.cpp:42:8:size_t subscription(uint8_t*, uint16_t, const char*, SubscriptionScope::Enum)	32	static
+../trackle-library/src/events.cpp:65:8:size_t event_name_uri_path(uint8_t*, const char*, size_t)	24	static

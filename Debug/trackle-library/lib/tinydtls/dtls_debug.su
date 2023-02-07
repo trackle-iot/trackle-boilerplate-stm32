@@ -1,0 +1,13 @@
+../trackle-library/lib/tinydtls/dtls_debug.c:56:13:dtls_package_name	4	static
+../trackle-library/lib/tinydtls/dtls_debug.c:61:13:dtls_package_version	4	static
+../trackle-library/lib/tinydtls/dtls_debug.c:66:7:dtls_get_log_level	4	static
+../trackle-library/lib/tinydtls/dtls_debug.c:71:6:dtls_set_log_level	16	static
+../trackle-library/lib/tinydtls/dtls_debug.c:83:1:print_timestamp	32	static
+../trackle-library/lib/tinydtls/dtls_debug.c:137:1:dsrv_print_addr	24	static
+../trackle-library/lib/tinydtls/dtls_debug.c:259:1:dtls_logging_handler	24	static
+../trackle-library/lib/tinydtls/dtls_debug.c:276:6:dtls_set_log_handler	16	static
+../trackle-library/lib/tinydtls/dtls_debug.c:299:6:dsrv_log	156	static
+../trackle-library/lib/tinydtls/dtls_debug.c:350:6:hexdump	24	static
+../trackle-library/lib/tinydtls/dtls_debug.c:373:6:dump	16	static
+../trackle-library/lib/tinydtls/dtls_debug.c:379:6:dtls_dsrv_log_addr	104	static
+../trackle-library/lib/tinydtls/dtls_debug.c:412:6:dtls_dsrv_hexdump_log	168	static

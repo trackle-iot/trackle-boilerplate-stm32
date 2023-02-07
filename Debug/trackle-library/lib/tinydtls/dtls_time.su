@@ -1,0 +1,2 @@
+../trackle-library/lib/tinydtls/dtls_time.c:71:6:dtls_clock_init	4	static
+../trackle-library/lib/tinydtls/dtls_time.c:75:6:dtls_ticks	16	static

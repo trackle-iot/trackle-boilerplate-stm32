@@ -1,0 +1,21 @@
+/Users/flavio/STM32CubeIDE/workspace_1.11.2/Trackle_nucleo_boilerplate/trackle-library/include/messages.h:113:34:static size_t trackle::protocol::Messages::coded_ack(unsigned char*, unsigned char, unsigned char, unsigned char, unsigned char)	16	static
+../trackle-library/src/messages.cpp:8:25:static trackle::protocol::CoAPMessageType::Enum trackle::protocol::Messages::decodeType(const uint8_t*, size_t)	24	static
+../trackle-library/src/messages.cpp:91:10:static size_t trackle::protocol::Messages::hello(uint8_t*, trackle::protocol::message_id_t, uint8_t, uint16_t, uint16_t, uint16_t, bool, const uint8_t*, uint16_t)	32	static
+../trackle-library/src/messages.cpp:125:10:static size_t trackle::protocol::Messages::update_done(uint8_t*, trackle::protocol::message_id_t, const uint8_t*, size_t, bool)	32	static
+../trackle-library/src/messages.cpp:144:10:static size_t trackle::protocol::Messages::update_done(uint8_t*, trackle::protocol::message_id_t, bool)	24	static
+../trackle-library/src/messages.cpp:149:10:static size_t trackle::protocol::Messages::function_return(unsigned char*, trackle::protocol::message_id_t, trackle::protocol::token_t, int, bool)	24	static
+../trackle-library/src/messages.cpp:164:10:static size_t trackle::protocol::Messages::variable_value(unsigned char*, trackle::protocol::message_id_t, trackle::protocol::token_t, bool)	24	static
+../trackle-library/src/messages.cpp:171:10:static size_t trackle::protocol::Messages::variable_value(unsigned char*, trackle::protocol::message_id_t, trackle::protocol::token_t, int32_t)	32	static
+../trackle-library/src/messages.cpp:181:10:static size_t trackle::protocol::Messages::variable_value(unsigned char*, trackle::protocol::message_id_t, trackle::protocol::token_t, int64_t)	24	static
+../trackle-library/src/messages.cpp:193:10:static size_t trackle::protocol::Messages::variable_value(unsigned char*, trackle::protocol::message_id_t, trackle::protocol::token_t, double)	24	static
+../trackle-library/src/messages.cpp:201:10:static size_t trackle::protocol::Messages::variable_value(unsigned char*, trackle::protocol::message_id_t, trackle::protocol::token_t, const void*, int)	32	static
+../trackle-library/src/messages.cpp:208:10:static size_t trackle::protocol::Messages::time_request(uint8_t*, uint16_t, uint8_t)	24	static
+../trackle-library/src/messages.cpp:225:10:static size_t trackle::protocol::Messages::chunk_missed(uint8_t*, uint16_t, trackle::protocol::chunk_index_t)	16	static
+../trackle-library/src/messages.cpp:239:10:static size_t trackle::protocol::Messages::content(uint8_t*, uint16_t, uint8_t)	16	static
+../trackle-library/src/messages.cpp:250:10:static size_t trackle::protocol::Messages::keep_alive(uint8_t*)	16	static
+../trackle-library/src/messages.cpp:256:10:static size_t trackle::protocol::Messages::ping(uint8_t*, uint16_t)	16	static
+../trackle-library/src/messages.cpp:265:10:static size_t trackle::protocol::Messages::presence_announcement(unsigned char*, const char*)	16	static
+../trackle-library/src/messages.cpp:278:10:static size_t trackle::protocol::Messages::describe_post_header(uint8_t*, size_t, uint16_t, uint8_t)	32	static
+../trackle-library/src/messages.cpp:305:10:static size_t trackle::protocol::Messages::separate_response_with_payload(unsigned char*, uint16_t, unsigned char, unsigned char, unsigned char*, unsigned int, bool)	24	static
+../trackle-library/src/messages.cpp:325:10:static size_t trackle::protocol::Messages::event(uint8_t*, uint16_t, const char*, const char*, int, EventType::Enum, bool)	32	static
+../trackle-library/src/messages.cpp:359:10:static size_t trackle::protocol::Messages::coded_ack(uint8_t*, uint8_t, uint8_t, uint8_t, uint8_t, uint8_t*, size_t)	32	static

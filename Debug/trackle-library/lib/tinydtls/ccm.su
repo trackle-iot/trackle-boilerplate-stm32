@@ -1,0 +1,11 @@
+../trackle-library/lib/tinydtls/global.h:102:1:memxor	24	static
+../trackle-library/lib/tinydtls/global.h:120:1:equals	32	static
+../trackle-library/lib/tinydtls/numeric.h:38:19:dtls_int_to_uint16	16	static
+../trackle-library/lib/tinydtls/numeric.h:53:19:dtls_int_to_uint32	16	static
+../trackle-library/lib/tinydtls/numeric.h:73:19:dtls_int_to_uint64	24	static
+../trackle-library/lib/tinydtls/ccm.c:42:1:block0	32	static
+../trackle-library/lib/tinydtls/ccm.c:76:1:add_auth_data	72	static
+../trackle-library/lib/tinydtls/ccm.c:141:1:encrypt	32	static
+../trackle-library/lib/tinydtls/ccm.c:154:1:mac	32	static
+../trackle-library/lib/tinydtls/ccm.c:168:1:dtls_ccm_encrypt_message	136	static
+../trackle-library/lib/tinydtls/ccm.c:232:1:dtls_ccm_decrypt_message	128	static
