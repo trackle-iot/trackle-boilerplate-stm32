@@ -1,9 +1,0 @@
-../trackle-library/lib/tinydtls/sha2/sha2.c:181:27:get32be	24	static
-../trackle-library/lib/tinydtls/sha2/sha2.c:196:20:put32be	16	static
-../trackle-library/lib/tinydtls/sha2/sha2.c:208:27:get64be	152	static
-../trackle-library/lib/tinydtls/sha2/sha2.c:417:6:dtls_sha256_init	16	static
-../trackle-library/lib/tinydtls/sha2/sha2.c:508:6:dtls_sha256_transform	80	static
-../trackle-library/lib/tinydtls/sha2/sha2.c:584:6:dtls_sha256_update	88	static
-../trackle-library/lib/tinydtls/sha2/sha2.c:632:6:dtls_sha256_final	32	static
-../trackle-library/lib/tinydtls/sha2/sha2.c:692:7:dtls_sha256_end	56	static
-../trackle-library/lib/tinydtls/sha2/sha2.c:715:7:dtls_sha256_data	128	static

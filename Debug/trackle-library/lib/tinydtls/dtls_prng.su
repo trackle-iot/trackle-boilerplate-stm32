@@ -1,2 +1,0 @@
-../trackle-library/lib/tinydtls/platform-specific/dtls_prng_lwip.c:24:5:dtls_prng	24	static
-../trackle-library/lib/tinydtls/platform-specific/dtls_prng_lwip.c:39:6:dtls_prng_init	16	static

@@ -1,6 +1,0 @@
-../trackle-library/lib/tinydtls/session.c:66:1:_dtls_address_equals_impl	16	static
-../trackle-library/lib/tinydtls/session.c:91:1:dtls_session_init	16	static
-../trackle-library/lib/tinydtls/session.c:114:1:dtls_new_session	24	static
-../trackle-library/lib/tinydtls/session.c:129:1:dtls_free_session	16	static
-../trackle-library/lib/tinydtls/session.c:134:1:dtls_session_addr	16	static
-../trackle-library/lib/tinydtls/session.c:144:1:dtls_session_equals	16	static

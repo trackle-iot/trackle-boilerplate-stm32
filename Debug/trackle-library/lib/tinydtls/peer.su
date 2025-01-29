@@ -1,4 +1,0 @@
-../trackle-library/lib/tinydtls/peer.c:23:6:peer_init	4	static
-../trackle-library/lib/tinydtls/peer.c:28:1:dtls_malloc_peer	8	static
-../trackle-library/lib/tinydtls/peer.c:33:1:dtls_free_peer	16	static
-../trackle-library/lib/tinydtls/peer.c:89:1:dtls_new_peer	24	static

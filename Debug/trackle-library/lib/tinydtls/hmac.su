@@ -1,6 +1,0 @@
-../trackle-library/lib/tinydtls/hmac.h:67:1:dtls_hash_init	16	static
-../trackle-library/lib/tinydtls/hmac.h:72:1:dtls_hash_update	24	static
-../trackle-library/lib/tinydtls/hmac.h:77:1:dtls_hash_finalize	16	static
-../trackle-library/lib/tinydtls/hmac.c:31:1:dtls_hmac_update	24	static
-../trackle-library/lib/tinydtls/hmac.c:38:1:dtls_hmac_init	32	static
-../trackle-library/lib/tinydtls/hmac.c:65:1:dtls_hmac_finalize	56	static

@@ -1,2 +1,0 @@
-../Middlewares/Third_Party/LwIP/src/core/ip.c:80:1:ipaddr_aton	24	static
-../Middlewares/Third_Party/LwIP/src/core/ip.c:111:1:ip_input	16	static

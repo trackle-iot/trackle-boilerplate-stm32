@@ -1,4 +1,0 @@
-/Users/flavio/STM32CubeIDE/workspace_1.11.2/Trackle_nucleo_boilerplate/trackle-library/include/coap.h:107:16:bool trackle::protocol::CoAPCode::is_success(trackle::protocol::CoAPCode::Enum)	16	static
-../trackle-library/src/coap.cpp:8:24:static trackle::protocol::CoAPCode::Enum trackle::protocol::CoAP::code(const unsigned char*)	24	static
-../trackle-library/src/coap.cpp:44:24:static trackle::protocol::CoAPType::Enum trackle::protocol::CoAP::type(const unsigned char*)	16	static
-../trackle-library/src/coap.cpp:60:16:static size_t trackle::protocol::CoAP::option_decode(unsigned char**)	24	static
