@@ -227,7 +227,7 @@ static void publishIfPeriodElapsed()
     waitingMillis += MAIN_LOOP_PERIOD_MS;
     if (waitingMillis > 20000)
     {
-        tracklePublish(trackle_s, "timed_events/every20s", "20 seconds passed", 60, PUBLIC, WITH_ACK);
+        tracklePublish(trackle_s, "timed_events/every20s", "20 seconds passed", 60, PUBLIC, WITH_ACK, 0);
         waitingMillis = 0;
     }
 }
